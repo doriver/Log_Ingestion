@@ -7,5 +7,4 @@
 * fields.csv : 원본
   * fields_core.csv : core필드만 추출한거
     * fields_core_selected.csv : 필요한 칼럼들만 추출한거   
-
-![alt text](image.png)
+<img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/e4b218e7-01e6-4b18-b87a-a4e05b685059" />
