@@ -1,9 +1,9 @@
 import requests
 
 baseUrl = "http://localhost:9200/"
-templateName = "fortigate-traffic"
+templateName = "log-trusguard-firewall"
 template = {
-  "index_patterns": ["fortigate-traffic-*"],
+  "index_patterns": ["log-trusguard-firewall-*"],
   "template": {
     "mappings": {
       "properties": {
