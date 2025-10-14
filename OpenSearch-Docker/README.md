@@ -3,3 +3,5 @@
 
 * https://opensearch.org/
 * Linux Foundation의 새로운 프로젝트, OpenSearch 소프트웨어 재단 , 2024년 9월에 결성
+* Apache Lucene 기반으로 구축됨
+  * Apache Lucene™ is a high-performance, full-featured search engine library written entirely in Java
