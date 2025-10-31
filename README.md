@@ -17,6 +17,8 @@
         * 정규표현식 이용
         * CSV, LTSV형식의 데이터를 JSON으로 바꿔주는 기능 이용
         * 아래 그림은 파싱 전략의 큰 흐름(실제 로직은 더 복잡)
+<img width="882" height="271" alt="image" src="https://github.com/user-attachments/assets/27a1f72f-4d9e-45d4-a8cb-0e7974f7a4ec" />
+
 
 
 
